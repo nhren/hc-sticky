@@ -1,7 +1,7 @@
 HC-Sticky
 =========
 
-Cross-browser plugin that makes any element on your page visible while you scroll.
+hc-sticky是一个jquery实现页面滚动固定元素的插件。该插件可以跨浏览器使用，具有在页面滚动时将指定元素固定在窗口上的功能。该页面滚动固定元素插件有js版本和jquery版本。简单实用。本代码适用浏览器：搜狗、360、FireFox(建议)、Chrome、Safari、Opera、傲游、世界之窗，不支持IE8及以下浏览器，首选火狐浏览器。是一款不错的的特效插件，需要的朋友可以下载！希望大家喜欢！
 
 
 ## Quick start
